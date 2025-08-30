@@ -80,7 +80,7 @@ SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/Rkbotzsupport')
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/Rkbotz')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/RkMovie_group')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/Rkbotz")
-VERIFY_TUTORIAL = envi-1002967713076et("VERIFY_TUTORIAL", "https://t.me/Rkbotz")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/Rkbotz")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds 
